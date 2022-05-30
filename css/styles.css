@@ -83,12 +83,16 @@ footer {
   background: var(--colorSecundario);
   padding: 2rem;
   text-align: center;
+  position: absolute;
+  bottom: -14rem;
+  width: 100vw;
+  
 }
 
 /* Navegacion */
 .contenedor {
   width: 120rem;
-  margin: 0 auto;
+  margin: 0;
 }
 .nav-bg {
   background: var(--colorTerciario);
