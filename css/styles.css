@@ -1,7 +1,7 @@
 :root {
   --colorPrincipal: #fdfd96;
-  --colorSecundario: #77dd77;
-  --colorTerciario: #ff6961;
+  --colorSecundario: #949290;
+  --colorTerciario: #ff8200;
   --blanco: #ffffff;
   --negro: #000000;
   --gris: #484848;
@@ -80,14 +80,13 @@ img {
 
 /* Footer */
 footer {
-  background: var(--colorTerciario);
+  background: var(--colorSecundario);
   padding: 2rem;
   text-align: center;
   position: absolute;
   bottom: 0;
   width: 100vw;
   color: var(--blanco);
-
 }
 
 /* Navegacion */
