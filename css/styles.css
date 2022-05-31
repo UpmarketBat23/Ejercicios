@@ -84,9 +84,9 @@ footer {
   padding: 2rem;
   text-align: center;
   position: absolute;
-  bottom: -14rem;
+  bottom: 0;
   width: 100vw;
-  
+
 }
 
 /* Navegacion */
