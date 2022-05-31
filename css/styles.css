@@ -22,7 +22,7 @@ body {
   font-family: var(--fuentePrincipal);
   font-size: 1.6rem;
   line-height: 1.5;
-  background: var(--colorPrincipal);
+  background: var(--blanco);
 }
 
 /* Globales */
@@ -80,7 +80,7 @@ img {
 
 /* Footer */
 footer {
-  background: var(--colorSecundario);
+  background: var(--colorTerciario);
   padding: 2rem;
   text-align: center;
   position: absolute;
