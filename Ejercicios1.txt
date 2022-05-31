@@ -1,0 +1,27 @@
+28 de mayo de 2022
+Ejercicios:
+
+    1- Hacer la estructura HTML de una pagina que contenga, una barra de navegación superior con los links a:
+Home, Ejercicios, Sobre Nosotros y Contacto
+
+Home: 
+Debe tener una imagen cualquiera de fondo de pantalla y un titulo centrado con el nombre de la página (inventar nombre).
+
+Ejercicios:
+Debe tener un titulo centrado con la palabra Ejercicios y debajo debe tener dos inputs 
+numéricos.
+
+Sobre Nosotros: 
+Titulo centrado de Sobre Nosotros, y debajo hacia la izquierda un texto cualquiera y a la derecha una foto de una persona.
+
+Contacto:
+Titulo centrado de Contacto y debajo un formulario para completar con Nombre, Asunto y Mensaje. Un botón de enviar y que ese botón te lleve a enviar un mail con los datos que pusiste en el formulario
+
+    2- Dar estilos Css a todo para que quede presentable, usar estos tres colores en todas las páginas:
+#fdfd96
+#77dd77
+#ff6961
+-Usar la fuente Roboto.
+-Poner Iconos en la barra de navegación a la par de cada link.
+
+    3- Subir el repositorio público a Github y subir la página a Netlify.
