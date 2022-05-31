@@ -92,7 +92,7 @@ footer {
 /* Navegacion */
 .contenedor {
   width: 120rem;
-  margin: 0;
+  margin: auto;
 }
 .nav-bg {
   background: var(--colorTerciario);
