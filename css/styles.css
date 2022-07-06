@@ -101,6 +101,8 @@ footer {
   text-align: center;
   width: 100vw;
   color: var(--blanco);
+  position: absolute;
+  bottom: 0%;
 }
 
 /* Navegacion */
