@@ -116,15 +116,26 @@ footer {
   text-align: center;
 }
 
+.nav-bg:hover {
+  cursor: pointer;
+}
+
 .navegacion-principal {
   display: flex;
-  justify-content: space-between;
+  /* justify-content: space-between; */
+  align-items: center;
   padding: 1rem;
 }
 
 .navegacion-principal a {
   color: var(--blanco);
   text-decoration: none;
+  border: none;
+  margin-right: 24rem;
+}
+
+.navegacion-principal a:last-child {
+  margin-right: 0;
 }
 
 /* Pag Ejercicios */
